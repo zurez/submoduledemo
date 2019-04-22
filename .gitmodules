@@ -1,3 +1,6 @@
 [submodule "sharedCode/submodule"]
 	path = sharedCode/submodule
 	url = https://github.com/zurez/submodule.git
+[submodule "newSubmodule/submodule"]
+	path = newSubmodule/submodule
+	url = https://github.com/zurez/submodule.git
